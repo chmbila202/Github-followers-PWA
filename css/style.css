@@ -1,0 +1,16 @@
+
+#content {
+    margin: 10px auto;
+}
+#data {
+    margin: 8px auto;
+}
+#info {
+    background: #777;
+    max-width: 415px;
+     
+}
+p {
+    padding:0px 10px;
+    color:white;
+}
